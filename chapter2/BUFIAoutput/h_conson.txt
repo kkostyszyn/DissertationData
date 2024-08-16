@@ -1,0 +1,7 @@
+[+Consonantal][-Consonantal][+Consonantal,+Sonorant]
+[+Consonantal][+Consonantal,+Sonorant][-Consonantal]
+[-Consonantal][][+Consonantal]
+[-Consonantal][][-Consonantal]
+[+Sonorant][-Consonantal][+Consonantal]
+[+Sonorant][-Consonantal][-Consonantal]
+[+Sonorant][+Sonorant][+Consonantal]

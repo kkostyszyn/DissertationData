@@ -1,0 +1,329 @@
+tsh	1	
+tsh tsh	1	
+tsh ts	1	
+tsh k	1	
+tsh v	1	
+tsh w	1	
+dzh	1	
+dzh dzh	1	
+ts	1	
+ts l	1	
+ts m	1	
+ts n	1	
+ts v	1	
+ts w	1	
+ts x	1	
+ts z	1	
+ts zp	1	
+b	1	
+b j	1	
+b l	1	
+b r	1	
+b r v	1	
+b w	1	
+b z	1	
+b zp	1	
+b zh	1	
+d	1	
+d b	1	
+d j	1	
+d l	1	
+d m	1	
+d n	1	
+d r	1	
+d r g	1	
+d r v	1	
+d r zh	1	
+d v	1	
+d w	1	
+d z b	1	
+d z v	1	
+d np	1	
+d zp	1	
+d zp v	1	
+d zh	1	
+f	1	
+f j	1	
+f k	1	
+f l	1	
+f p	1	
+f r	1	
+f s	1	
+f t	1	
+f t s	1	
+f t cp	1	
+f t sh	1	
+f x	1	
+f cp	1	
+f sh	1	
+g	1	
+g d	1	
+g d zp	1	
+g j j	1	
+g l	1	
+g m	1	
+g n	1	
+g r	1	
+g v	1	
+g w	1	
+g z	1	
+g np	1	
+g zp	1	
+g zh	1	
+g zh b	1	
+g zh m	1	
+j	1	
+j m	1	
+k	1	
+k ts	1	
+k f	1	
+k j j	1	
+k l	1	
+k m	1	
+k n	1	
+k r	1	
+k r t	1	
+k r v	1	
+k s	1	
+k t	1	
+k t cp	1	
+k v	1	
+k w	1	
+k cp	1	
+k np	1	
+k sh	1	
+k sh t	1	
+k zh	1	
+l	1	
+l g n	1	
+l g np	1	
+l j	1	
+l n	1	
+l v	1	
+l cp np	1	
+l np	1	
+l zh	1	
+m	1	
+m g l	1	
+m g w	1	
+m j	1	
+m k n	1	
+m k np	1	
+m l	1	
+m n	1	
+m r	1	
+m w	1	
+m x	1	
+m jp	1	
+m np	1	
+m sh	1	
+m zh	1	
+n	1	
+p	1	
+p j	1	
+p l	1	
+p n	1	
+p r	1	
+p s	1	
+p s t r	1	
+p t	1	
+p w	1	
+p w ts	1	
+p x	1	
+p x l	1	
+p x w	1	
+p cp	1	
+p np	1	
+p sh	1	
+p sh tsh	1	
+p zh	1	
+r	1	
+r d z	1	
+r j	1	
+r t	1	
+r v	1	
+r zh	1	
+s	1	
+s ts	1	
+s f	1	
+s k	1	
+s k l	1	
+s k r	1	
+s k w	1	
+s k zh	1	
+s l	1	
+s m	1	
+s m r	1	
+s n	1	
+s p	1	
+s p l	1	
+s p r	1	
+s p zh	1	
+s r	1	
+s s	1	
+s t	1	
+s t r	1	
+s t s	1	
+s t v	1	
+s t w	1	
+s t cp	1	
+s t sh	1	
+s t zh	1	
+s v	1	
+s w	1	
+s x	1	
+s x l	1	
+s x n	1	
+s x r	1	
+s x np	1	
+s cp	1	
+s sh	1	
+t	1	
+t f	1	
+t j	1	
+t k	1	
+t l	1	
+t m	1	
+t n	1	
+t p	1	
+t r	1	
+t r v	1	
+t s f	1	
+t s m	1	
+t s n	1	
+t v	1	
+t w	1	
+t x	1	
+t cp m	1	
+t np	1	
+t sh	1	
+t sh k	1	
+t sh t	1	
+t zh	1	
+t zh ts	1	
+t zh m	1	
+v	1	
+v tsh	1	
+v b	1	
+v d	1	
+v d zp	1	
+v g	1	
+v j	1	
+v k	1	
+v k r	1	
+v l	1	
+v m	1	
+v n	1	
+v p	1	
+v p w	1	
+v r	1	
+v s k	1	
+v s p	1	
+v s t	1	
+v s t r	1	
+v s t zh	1	
+v s x	1	
+v t	1	
+v v	1	
+v w	1	
+v z	1	
+v z g	1	
+v z r	1	
+v z v	1	
+v cp	1	
+v np	1	
+v sh	1	
+v zp	1	
+v zh	1	
+w	1	
+w b	1	
+w g	1	
+w z	1	
+w zp	1	
+w zh	1	
+x	1	
+x ts	1	
+x f	1	
+x j	1	
+x l	1	
+x m	1	
+x r	1	
+x t s	1	
+x v	1	
+x w	1	
+x sh	1	
+x zh	1	
+x zh tsh	1	
+x zh ts	1	
+x zh t	1	
+z	1	
+z b	1	
+z b l	1	
+z b r	1	
+z d	1	
+z d j	1	
+z d r	1	
+z d zp	1	
+z g	1	
+z g j	1	
+z g l	1	
+z g r	1	
+z g np	1	
+z g zh	1	
+z j	1	
+z l	1	
+z m	1	
+z m r	1	
+z n	1	
+z r	1	
+z v	1	
+z v r	1	
+z v w	1	
+z w	1	
+z z	1	
+z np	1	
+z sh	1	
+z zh	1	
+cp	1	
+cp ts	1	
+cp f	1	
+cp l	1	
+cp m	1	
+cp p	1	
+cp r	1	
+cp v	1	
+cp np	1	
+jp	1	
+np	1	
+sh	1	
+sh tsh	1	
+sh tsh v	1	
+sh ts	1	
+sh f	1	
+sh k	1	
+sh k l	1	
+sh k v	1	
+sh k w	1	
+sh l	1	
+sh m	1	
+sh n	1	
+sh p	1	
+sh p r	1	
+sh p zh	1	
+sh r	1	
+sh t	1	
+sh v	1	
+sh w	1	
+zp	1	
+zp d zp b	1	
+zp d zp b l	1	
+zp d zp b w	1	
+zp l	1	
+zp r	1	
+zh	1	
+zh b	1	
+zh m	1	
+zh n	1	
+zh v	1	
+zh w	1	
+zh np	1	

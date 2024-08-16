@@ -1,0 +1,3 @@
+[-Labial,-Coronal][-Labial,-Coronal]
+[-Labial,+Dorsal][-Labial,-Coronal]
+[+Coronal,+Dorsal][+Labial,+Dorsal]
